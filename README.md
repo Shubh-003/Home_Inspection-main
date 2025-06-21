@@ -34,7 +34,8 @@ pip install -r requirements.txt
 <b>▶️ Run the app </b>
 streamlit run app.py
 
-
+## output
+<img src="Output2.jpg" />
 
 ## 🛠️ Future Improvements
 - 🖼️ Image uploads for property inspection
